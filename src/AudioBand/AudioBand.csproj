@@ -113,6 +113,7 @@
     <Compile Include="Models\MouseBinding.cs" />
     <Compile Include="Models\MouseBindingCommandType.cs" />
     <Compile Include="Models\MouseInputType.cs" />
+    <Compile Include="Models\SliderToolTipType.cs" />
     <Compile Include="Models\UserProfile.cs" />
     <Compile Include="Models\SemanticVersion.cs" />
     <Compile Include="Settings\MappingProfiles\SettingsV1ToSettingsV2Profile.cs" />
@@ -131,6 +132,7 @@
     <Compile Include="UI\Behaviors\CanvasPositioning.cs" />
     <Compile Include="UI\Behaviors\Fallback.cs" />
     <Compile Include="UI\Behaviors\RedirectScrolling.cs" />
+    <Compile Include="UI\Behaviors\SliderToolTipBehavior.cs" />
     <Compile Include="UI\Behaviors\SliderClickAndDrag.cs" />
     <Compile Include="UI\Behaviors\TrackOffsetFix.cs" />
     <Compile Include="Commands\AsyncRelayCommand.cs" />
